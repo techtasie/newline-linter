@@ -1,6 +1,6 @@
 {
   "name": "newline-linter",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "newline checker",
   "main": "index.js",
   "scripts": {
